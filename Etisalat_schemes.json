@@ -1,0 +1,27 @@
+{
+	"consumer": {
+		"mobile_plans":{
+			"plans":{
+				"pre-paid":{
+					"wasel-prepaid-line": ["*Plan 25 - 200AED*\n-Full Control over usage\n-Variety of Data & Voice packages\n-Free 1GB data with your first recharge\n-Free SIM card worth AED 55\n-Free Smiles points with every Wasel recharge"],
+					"wasel-flexi": ["1GB + promo 1GB plans*\n1. Flexi minutes - 30, promo internet calling - No, preferred numbers - Yes and price in AED - 50,\n2. Flexi minutes - 60, promo internet calling - No, preferred numbers - Yes and price in AED - 60,\n3. Flexi minutes - 90, promo internet calling - No, preferred numbers - Yes and price in AED - 70.", "2GB + promo 2GB plans*\n1. Flexi minutes - 30, promo internet calling - No, preferred numbers - Yes and price in AED - 80,\n2. Flexi minutes - 60, promo internet calling - No, preferred numbers - Yes and price in AED - 90,\n3. Flexi minutes - 90, promo internet calling - Yes, preferred numbers - Yes and price in AED - 100.", "3GB + promo 3GB plans*\n1. Flexi minutes - 30, promo internet calling - Yes, preferred numbers - Yes and price in AED - 100,\n2. Flexi minutes - 60, promo internet calling - Yes, preferred numbers - Yes and price in AED - 110,\n3. Flexi minutes - 90, promo internet calling - Yes, preferred numbers - Yes and price in AED - 120."]
+				},
+				"post-paid": {
+					"New Freedom": ["27GB Local Data + 27GB Promotional Data", "50GB Local Data + 250GB Promotional Data", "13GB Local Data + 13GB Promotional Data", "4GB Local Data + 100 minutes flexi calls(local & international)", "27GB Local Data + 27GB Promotional Data"],
+					"Freedom": ["Freedom Plan 175"]
+				},
+				"visitor_line": 0,
+				"control_line": 0,
+				"roaming": 0
+			},
+			"emirati": 0,
+			"add-ons": 0,
+			"shortcuts": 0
+		},
+		"tv_internet": 0,
+		"devices": 0
+	},
+	"business":
+	"carrier & wholesale",
+	"group": 1
+}
